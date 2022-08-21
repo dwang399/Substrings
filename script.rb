@@ -15,4 +15,3 @@ def substrings(string, dictionary)
   end
 end
 
-p did
